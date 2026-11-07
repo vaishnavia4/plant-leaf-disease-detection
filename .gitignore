@@ -1,0 +1,6 @@
+# dataset and trained model are not committed
+notebooks/data/
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.venv/
